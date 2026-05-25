@@ -1,0 +1,14 @@
+{
+    "wwise_console_path": "D:\\Audiokinetic\\Wwise2024.1.13.9056\\Authoring\\x64\\Release\\bin\\WwiseConsole.exe",
+    "wwise_project_path": "../../MimuDev_WwiseProject/MimuDev_WwiseProject.wproj",
+    "wwise_bank_output_path": "../../MimuDev_WwiseProject/GeneratedSoundBanks",
+    "platforms": [
+        "Windows"
+    ],
+    "languages": [
+        "English(US)"
+    ],
+    "unreal_cmd_path": "D:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Binaries\\Win64\\UnrealEditor-Cmd.exe",
+    "unreal_uproject_path": "../../MimuDev.uproject",
+    "unreal_wwise_audio_path": "../../Content/WwiseAudio"
+}
