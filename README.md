@@ -1,4 +1,4 @@
-# Wwise Asset Tool
+# UnrealWwiseAssetTool
 
 自动化 Wwise SoundBank 生成与 Unreal Engine 资产同步的命令行工具。
 
